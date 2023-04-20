@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">6_moth_2_dz</string>
+    <string name="chance">Select images</string>
+    <string name="select">0 photo selected</string>
+    <string name="selected">Selected images</string>
+    <string name="ready">Ready</string>
+</resources>
